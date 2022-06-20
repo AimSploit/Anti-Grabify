@@ -1,0 +1,54 @@
+body {
+    background: rgb(58, 54, 54);
+}
+.idklol {
+    font-family: monospace;
+    color: rgb(255, 0, 0);
+    cursor: text;
+}
+.idkloloo {
+    font-family: monospace;
+    color: rgba(38, 0, 255, 0.288);
+    cursor: text;
+    text-align: right
+}
+.idkloli {
+    font-family: Courier;
+    color: rgb(255, 0, 0);
+    cursor: text;
+}
+.bigmrdka1 {
+  font-family:Courier;
+  color: rgb(132, 0, 255);
+  cursor: text;
+}
+.navbar {
+  overflow: visible;
+  background-color: rgb(40, 35, 35);
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 900%; /* Full width */
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: rgb(115, 255, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
