@@ -1,11 +1,29 @@
+@font-face { font-family: suiii; src: url('MochiyPopOne-Regular.ttf'); }
+@font-face { font-family: suiiiishowspeed; src: url('RubikMoonrocks-Regular.ttf'); }
+@font-face { font-family: fiveXfive; src: url('55.ttf'); }
+
 body {
-    background: rgb(58, 54, 54);
+    background: rgb(0, 0, 0);
 }
 .idklol {
     font-family: monospace;
     color: rgb(255, 0, 0);
     cursor: text;
 }
+.text {
+  font-family: fiveXfive;
+}
+.textred {
+  font-family: fiveXfive;
+  color: red;
+}
+.textversion {
+  font-family: fiveXfive;
+  color: rgba(38, 0, 255, 0.288);
+  cursor: text;
+  text-align: right
+}
+
 .idkloloo {
     font-family: monospace;
     color: rgba(38, 0, 255, 0.288);
@@ -22,9 +40,9 @@ body {
     color: rgb(255, 0, 0);
     cursor: text;
 }
-.bigmrdka1 {
-  font-family:Courier;
-  color: rgb(132, 0, 255);
+.bigmrdka1 { /**/
+  font-family:suiii;
+  color: rgb(255, 0, 157);
   cursor: text;
 }
 .navbar {
@@ -38,22 +56,29 @@ a:link {
     color: green;
     background-color: transparent;
     text-decoration: underline;
+    font-family: suiiiishowspeed;
   }
   
 a:visited {
     color: green;
     background-color: transparent;
     text-decoration: none;
+    font-family: suiiiishowspeed;
+
   }
   
 a:hover {
     color: rgb(115, 255, 0);
     background-color: transparent;
     text-decoration: underline;
+    font-family: suiiiishowspeed;
+
   }
   
 a:active {
     color: green;
     background-color: transparent;
     text-decoration: underline;
+    font-family: suiiiishowspeed;
+
   }

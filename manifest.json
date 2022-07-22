@@ -1,9 +1,9 @@
 {
 
-  "description": "Block grabify and other links by Take#1810",
+  "description": "Blocks grabify and other bad links",
   "manifest_version": 2,
   "name": "Anti Grabify",
-  "version": "2.5",
+  "version": "3.0",
   "homepage_url": "https://pacsoft.xyz",
   "icons": {
     "48": "icon.png"
