@@ -58,7 +58,8 @@ browser.webRequest.onBeforeRequest.addListener(
            "https://www.gyazo.nl/*", "https://www.gyazo.nl/*",
            "https://www.xn--yutube-iqc.com/*","https://www.xn--yutube-iqc.com/*",
            "https://www.webresolver.nl/*","https://www.webresolver.nl/*",
-           "https://roblox.com.lv/*","http://roblox.com.lv/*"
+           "https://roblox.com.lv/*","http://roblox.com.lv/*",
+           "https://tracker.iplocation.net/*","http://tracker.iplocation.net/"
           ],
 		types: ["main_frame"]
 	},

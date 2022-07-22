@@ -12,6 +12,11 @@ body {
     cursor: text;
     text-align: right
 }
+.idkloloom {
+  font-family: monospace;
+  color: rgb(38, 0, 255);
+  cursor: text;
+}
 .idkloli {
     font-family: Courier;
     color: rgb(255, 0, 0);
